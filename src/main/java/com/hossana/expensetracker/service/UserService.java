@@ -9,5 +9,5 @@ public interface UserService {
     List<User> getUsers();
     String createUser(UserRequest userRequest);
     String updateUser(UserRequest userRequest, Long id);
-    String deleteUser(UserRequest userRequest, Long id);
+    String deleteUser(Long id);
 }
