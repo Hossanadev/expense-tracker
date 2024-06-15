@@ -1,7 +1,7 @@
-package com.hossana.expensetracker.service;
+package com.hossana.homefort.service;
 
-import com.hossana.expensetracker.dto.UserRequest;
-import com.hossana.expensetracker.entity.User;
+import com.hossana.homefort.dto.UserRequest;
+import com.hossana.homefort.entity.User;
 
 import java.util.List;
 

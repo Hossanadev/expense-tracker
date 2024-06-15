@@ -1,4 +1,4 @@
-package com.hossana.expensetracker.dto;
+package com.hossana.homefort.dto;
 
 import lombok.*;
 

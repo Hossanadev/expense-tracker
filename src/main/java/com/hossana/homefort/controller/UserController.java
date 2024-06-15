@@ -1,8 +1,8 @@
-package com.hossana.expensetracker.controller;
+package com.hossana.homefort.controller;
 
-import com.hossana.expensetracker.dto.UserRequest;
-import com.hossana.expensetracker.entity.User;
-import com.hossana.expensetracker.service.UserService;
+import com.hossana.homefort.dto.UserRequest;
+import com.hossana.homefort.entity.User;
+import com.hossana.homefort.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

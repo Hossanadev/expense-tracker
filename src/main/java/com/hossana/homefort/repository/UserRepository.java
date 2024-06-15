@@ -1,6 +1,6 @@
-package com.hossana.expensetracker.repository;
+package com.hossana.homefort.repository;
 
-import com.hossana.expensetracker.entity.User;
+import com.hossana.homefort.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface UserRepository extends JpaRepository<User,Long> {

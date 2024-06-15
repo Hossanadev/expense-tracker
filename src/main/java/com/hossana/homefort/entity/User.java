@@ -1,4 +1,4 @@
-package com.hossana.expensetracker.entity;
+package com.hossana.homefort.entity;
 
 import jakarta.persistence.*;
 import lombok.*;
